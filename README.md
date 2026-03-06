@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Krishna Garg
 
-<!--
-**krishnagarg-dev/krishnagarg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎓 MCA @ KIET Group of Institutions  
+🧠 DSA Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+React.js  
+Node.js  
+Express.js  
+MongoDB  
+JavaScript  
+MySQL  
+
+---
+
+## 📚 Currently Learning
+
+Data Structures & Algorithms  
+Backend Development  
+System Design  
+
+---
+
+## 💼 Experience
+
+Full Stack Developer Intern  
+QBE Consulting Pvt. Ltd.
+
+Worked with:
+React.js • Node.js • Flask  
+MongoDB • MySQL • PostgreSQL
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/your-link
