@@ -38,4 +38,4 @@ MongoDB • MySQL • PostgreSQL
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-link
+LinkedIn: https://www.linkedin.com/in/krishnagarg2003/
